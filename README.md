@@ -63,7 +63,7 @@ Let's get you up and running! Follow this journey step by step:
 First, we need to set up the AI engine:
 
 ```bash
-# Install Ollama (visit https://ollama.ai for your OS-specific instructions)
+# Install Ollama (visit https://ollama.com for your OS-specific instructions)
 # For Linux:
 curl -fsSL https://ollama.ai/install.sh | sh
 
@@ -287,7 +287,7 @@ If you encounter any issues or have questions:
 ## 🎓 Learn More
 
 Interested in the technology behind this project?
-- [Ollama Documentation](https://ollama.ai)
+- [Ollama Documentation](https://ollama.com)
 - [Gradio Documentation](https://gradio.app)
 - [FastAPI Documentation](https://fastapi.tiangolo.com)
 
